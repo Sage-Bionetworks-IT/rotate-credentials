@@ -65,8 +65,3 @@ Install the lambda using sceptre:
 ```shell script
 sceptre --var "profile=my-profile" --var "region=us-east-1" launch prod/rotate-credentials.yaml
 ```
-
-## Author
-
-Your Name Here.
-FIXME: I don't know who the author is
